@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "read": "^1.0.7",
-    "ssh2": "^0.8.9",
+    "ssh2": "^1.4.0",
     "yargs": "^16.0.3"
   }
 }
